@@ -21,7 +21,7 @@ class C extends Bank{
 }
 public class m1 {
 public static void main(String[] args) {
-	System.out.println("Method Overriding");
+	System.out.println("Method overriding");
 	A1 a =new A1();
     B b= new B();
     C c = new C();
